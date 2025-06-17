@@ -6,7 +6,7 @@
 
 <p><img align="center" height="250" width="350" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab-ghosh7" alt="arnab-ghosh7" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Science & AI**
 
