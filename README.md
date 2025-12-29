@@ -26,13 +26,6 @@ Aspiring Data Scientist | Bridging Physics, AI & Data
 
 ---
 
-## 🎮 Interests
-
-- 🎯 **Gaming** — *BGMI (Battlegrounds Mobile India)*  
-  *(Helps sharpen strategic thinking, decision-making, and teamwork under pressure)*
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
